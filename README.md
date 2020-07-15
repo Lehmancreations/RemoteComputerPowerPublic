@@ -1,4 +1,4 @@
-# RemoteComputerPowerPublic
+# Remote Computer Power Public
 
 This is the public repo for the documentation of the Remote computer power project
 
